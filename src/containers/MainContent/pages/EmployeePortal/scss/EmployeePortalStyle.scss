@@ -1,0 +1,24 @@
+/*
+01. style for Employee portal pages
+   ====== */
+   @import '../../../../../scss/variables';
+
+   h4{margin-bottom: 15px;}
+   
+   .padding{
+       padding:$padding-content;
+   }
+   
+   .info{
+       margin-bottom: 15px;
+   }
+   
+   .auto-data{
+       padding-top: 13px;
+       padding-left: 10px;
+    }
+   
+    .mg-bottom{
+       margin-bottom: 10px;
+    }
+   
